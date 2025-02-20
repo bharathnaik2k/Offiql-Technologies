@@ -50,7 +50,7 @@ class _HomeScreenState extends State<HomeScreen> {
             // useing provider state management to rebuild widget
             Consumer<ProviderStateController>(builder: (context, ref, child) {
           return Column(
-            children: [
+            children: <Widget>[
               SizedBox(
                 width: double.infinity,
                 height: 58,

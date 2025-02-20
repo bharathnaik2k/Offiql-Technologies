@@ -1,16 +1,10 @@
-# offiql_techno_assign
+# Offiql Technologies
 
-A new Flutter project.
+<p align="center">
+  <img src= "https://media.licdn.com/dms/image/v2/C560BAQGQUqGIqpLhFw/company-logo_200_200/company-logo_200_200/0/1630671699614/offiql_logo?e=2147483647&v=beta&t=a1BkoZJj76UwwIDDcTzy5yJzwGS-2z-ZVVM7zaaWPOg"/>
+</p>
 
-## Getting Started
+## App Preview
+<img src="https://github.com/bharathnaik2k/Offiql-Technologies/blob/main/preview.png"  />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Video Preview [Linkedin Video](https://drive.google.com/file/d/1ctCcNVCfKEm27LqtXQFBIPKEjS5WxgVG/view?usp=drive_link)
