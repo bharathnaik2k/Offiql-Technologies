@@ -7,4 +7,4 @@
 ## App Preview
 <img src="https://github.com/bharathnaik2k/Offiql-Technologies/blob/Master/preview.png"  />
 
-## Video Preview [Linkedin Video](https://drive.google.com/file/d/1ctCcNVCfKEm27LqtXQFBIPKEjS5WxgVG/view?usp=drive_link)
+## Video Preview [GDrive Video](https://drive.google.com/file/d/1ctCcNVCfKEm27LqtXQFBIPKEjS5WxgVG/view?usp=drive_link)
